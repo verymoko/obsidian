@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "a3f32201f51c1cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "afade3ef9608bcff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game Ideas Explained.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fceaa95546fd26e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5a5834240582bdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29cf90853ea020f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9f002718360d75e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "рафа",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425
+  },
+  "right": {
+    "id": "73cfbb0da4974923",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1178f938d49a411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dfd3333591cfcdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game Ideas Explained.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "afade3ef9608bcff",
+  "lastOpenFiles": [
+    "Game Ideas Explained.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Гипотеза Арнхейма.md",
+    "Правая и левая сторона картины.md",
+    "Компенсация гравитации.md",
+    "Иррадиация.md",
+    "Визуальный вес во всех медиумах.md",
+    "Угол ≈90° кажется прямым.md",
+    "Окружение определяет точку опору произведения искусства без рамки.md"
+  ]
+}
